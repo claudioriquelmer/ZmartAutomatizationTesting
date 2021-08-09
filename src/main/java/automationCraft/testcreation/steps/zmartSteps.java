@@ -13,6 +13,7 @@ public class zmartSteps {
 
     @Given("el usuario se encuentra en la pagina de inicio")
     public void el_usuario_se_encuentra_en_la_pagina_de_inicio() {
+        System.out.println("Inicializando Test...");
         zmartHome = new zmartHomePage(DriverFactory.getDriver());
         zmartHome.validarZmartHomePage();
     }
