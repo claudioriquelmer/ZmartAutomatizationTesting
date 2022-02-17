@@ -1,36 +1,36 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "81e75efb-62ec-4194-9a44-2c3e4779a2a8",
-    "feature": "HU-001 Buscador de productos",
-    "scenario": "Busqueda por nombre de producto",
-    "start": 1627924717893,
-    "group": 1,
-    "content": "",
-    "tags": "@demo,",
-    "end": 1627924734023,
-    "className": "passed"
-  },
-  {
-    "id": "6525c35b-4246-4c1a-ba2a-e12e408d5e2f",
+    "id": "2fceead8-9a80-4be4-b4b4-46541b8a6f8b",
     "feature": "HU-001 Buscador de productos",
     "scenario": "Filtrar por tipo de producto",
-    "start": 1627924745959,
+    "start": 1645106665913,
     "group": 1,
     "content": "",
     "tags": "@demo,",
-    "end": 1627924755304,
+    "end": 1645106672900,
     "className": "passed"
   },
   {
-    "id": "dfe3cd37-8bf1-49c9-9d4a-692b12d9dbc5",
+    "id": "59219ba0-a50d-43dc-97e7-b65e72ddbf23",
     "feature": "HU-001 Buscador de productos",
     "scenario": "Filtrar por disponibilidad de producto",
-    "start": 1627924734047,
+    "start": 1645106654874,
     "group": 1,
     "content": "",
     "tags": "@demo,",
-    "end": 1627924745947,
+    "end": 1645106665913,
+    "className": "passed"
+  },
+  {
+    "id": "ba503b5d-89c0-4f25-9763-b5ffa9a09d8d",
+    "feature": "HU-001 Buscador de productos",
+    "scenario": "Busqueda por nombre de producto",
+    "start": 1645106643064,
+    "group": 1,
+    "content": "",
+    "tags": "@demo,",
+    "end": 1645106654868,
     "className": "passed"
   }
 ]);
